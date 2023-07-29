@@ -1,0 +1,8 @@
+{
+  "name": "jdeeb-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/maven"
+    }
+  ]
+}
